@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="en">
+	<title>Coding the Commune</title>
+	<subtitle>A blog about the intersection of philosophy and technology.</subtitle>
+	<link href="https://cjkg.github.io/coding-the-commune/feed/feed.xml" rel="self"/>
+	<link href="https://cjkg.github.io/coding-the-commune/"/>
+	<updated>2023-05-06T00:00:00Z</updated>
+	<id>https://cjkg.github.io</id>
+	<author>
+		<name>Christopher Gibilisco</name>
+		<email>cjgibilisco@gmail.com</email>
+	</author>
+	
+	<entry>
+		<title>Software by Consensus</title>
+		<link href="https://cjkg.github.io/coding-the-commune/blog/2023-05-06-software-by-consensus/"/>
+		<updated>2023-05-06T00:00:00Z</updated>
+		<id>https://cjkg.github.io/coding-the-commune/blog/2023-05-06-software-by-consensus/</id>
+		<content type="html">&lt;p&gt;The goal of this post is to carve out some ideal types of software development projects, where decisions are made by consensus (or rough consensus). This exercise is, in part, to lay the groudwork for other posts that imagine what software development would look like in a more equitable future society, as well as to identify some projects that prefigure such an arrangement.&lt;/p&gt;
+&lt;p&gt;We will get into what making decisions by consensus means, and compare it to other forms of collective decision making below. But first, we must start with more primitive concepts.&lt;/p&gt;
+&lt;h2 id=&quot;projects&quot; tabindex=&quot;-1&quot;&gt;Projects &lt;a class=&quot;header-anchor&quot; href=&quot;https://cjkg.github.io/coding-the-commune/blog/2023-05-06-software-by-consensus/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Human beings work on projects. The relevant concept of a project is difficult to define, but it can be characterized. First, projects are (for this discussion) a group activity. They involve participants coming together to do &lt;em&gt;something&lt;/em&gt;. Second,  participants in a project come together in &lt;em&gt;good faith&lt;/em&gt; to pursue their &lt;em&gt;shared interests&lt;/em&gt; (although they can certainly disagree on much else). A group pursuit of shared interests forms &lt;em&gt;a collective will&lt;/em&gt; to do something - in our case, create software.&lt;/p&gt;
+&lt;p&gt;This leads to an important corollary: not all groups activities are projects. For example, when a company hires someone to write some code, this does not constitute a project, because the employer and the employee do not share the same interests, and therefore do not form a collective will. The employee is at the &lt;em&gt;command&lt;/em&gt; of the employer, and pursues the employer&#39;s interest in exchange for wages. In this sense, our use of the word project is idiosyncratic, but I hope not too much so.&lt;/p&gt;
+&lt;h2 id=&quot;participants&quot; tabindex=&quot;-1&quot;&gt;Participants &lt;a class=&quot;header-anchor&quot; href=&quot;https://cjkg.github.io/coding-the-commune/blog/2023-05-06-software-by-consensus/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;In the kind of software project we are interested in, a participant is anyone who has a voice in the project. In software, participants in the project are not just the developers. Participants also include users, testers, and reviewers (where a reviewer ultimately merges the proposed changes into main).&lt;/p&gt;
+&lt;p&gt;Everyone in the community behind a project &lt;em&gt;can&lt;/em&gt; play some or all the roles simultaneously. In the limit case, everyone in the community works on the project as a developer, a tester, and a reviewer -- and these same people are the only users of the software. This kind of equilibrium is uncommon simply because most of us want our software to be used widely and be put to good use. This would be impossible if we limited use of software to those who were actively developing, testing, and reviewing the software. (This kind of project need not be exclusionary: it might just so happen that no one needs the software outside the small group of people directly building it.)&lt;/p&gt;
+&lt;h2 id=&quot;decisions&quot; tabindex=&quot;-1&quot;&gt;Decisions &lt;a class=&quot;header-anchor&quot; href=&quot;https://cjkg.github.io/coding-the-commune/blog/2023-05-06-software-by-consensus/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;So now we finally come to collective-decision making. We are trying to understand ways of making decisions by consensus. There are three kinds of decision making of interest, following the distinctions laid out by Andy Blunden in his &lt;a href=&quot;https://www.haymarketbooks.org/books/998-the-origins-of-collective-decision-making&quot;&gt;The Origins of Collective Decision-Making&lt;/a&gt;, pp. TODO.&lt;/p&gt;
+</content>
+	</entry>
+</feed>
