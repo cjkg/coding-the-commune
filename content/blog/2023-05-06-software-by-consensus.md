@@ -24,9 +24,3 @@ Everyone in the community behind a project *can* play some or all the roles simu
 ## Decisions
 
 So now we finally come to collective-decision making. We are trying to understand ways of making decisions by consensus. There are three kinds of decision making of interest, following the distinctions laid out by Andy Blunden in his [The Origins of Collective Decision-Making](https://www.haymarketbooks.org/books/998-the-origins-of-collective-decision-making), pp. TODO.
-
-**Majoritarianism**: 
-
-**Consensus**:
-
-**Council**: 
