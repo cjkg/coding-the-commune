@@ -1,6 +1,6 @@
 ---
 title:  "Software by Consensus"
-date:   2023-05-06
+date:   2023-05-15
 tags:
 	- consensus
 ---
