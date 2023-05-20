@@ -268,3 +268,13 @@ a[href].header-anchor:focus,
 h2 + .header-anchor {
 	font-size: 1.5em;
 }
+
+/* ASCII Art */
+.asciiart {
+	font-family: var(--font-family-monospace);
+	font-size: 1.5em;
+	line-height: 1.5;
+	white-space: pre;
+	justify-content: center;
+	color: red;
+}
