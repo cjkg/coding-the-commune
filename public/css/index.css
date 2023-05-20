@@ -270,11 +270,8 @@ h2 + .header-anchor {
 }
 
 /* ASCII Art */
-.asciiart {
-	font-family: var(--font-family-monospace);
+.slogan {
 	font-size: 1.5em;
-	line-height: 1.5;
-	white-space: pre;
 	justify-content: center;
 	color: red;
 }
