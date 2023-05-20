@@ -1,6 +1,6 @@
 module.exports = {
 	title: "Coding the Commune",
-	url: "www.codingthecommune.net",
+	url: "https://www.codingthecommune.net",
 	language: "en",
 	description: "A blog about the intersection of philosophy and technology.",
 	author: {
