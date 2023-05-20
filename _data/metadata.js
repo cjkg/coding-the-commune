@@ -1,11 +1,11 @@
 module.exports = {
 	title: "Coding the Commune",
-	url: "https://cjkg.github.io",
+	url: "www.codingthecommune.net",
 	language: "en",
 	description: "A blog about the intersection of philosophy and technology.",
 	author: {
 		name: "Christopher Gibilisco",
 		email: "cjgibilisco@gmail.com",
-		url: "https://cjkg.github.io/about-me/"
+		url: "https://www.codingthecommune.net/about/"
 	}
 }
