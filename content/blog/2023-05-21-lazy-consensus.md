@@ -2,9 +2,7 @@
 title:  "Lazy Consensus and the Problem of 'Endless Meetings'"
 date:   2023-05-21
 tags:
-	- "consensus" 
-	- "lazy consensus", 
-	- "endless meetings"
+	- "consensus"
 ---
 
 In the standard case, collective decisions are made by a group of people in a room together. This arrangement requires planning on the part of the participants. Rooms need to be booked - at an inn, a library, a community center, or someone's house. Schedules have to be accommodated. Refreshments have to be prepared.
