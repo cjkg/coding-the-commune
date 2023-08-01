@@ -2,7 +2,7 @@
 title:  "Alienating Ourselves: A Response to Justin Searls on 10x Developers"
 date:   2023-07-31
 tags:
-	- ['alienation', 'Marx']
+	- alienation
 ---
 
 In a recent [blog post](https://blog.testdouble.com/posts/2023-07-12-the-looming-demise-of-the-10x-developer/), Justin Searls of Test Double claims that 10x developers are fading away, because the conditions that make one more likely to become a 10x developer were more prevalent for developers born before 1990. The difference between those born before 1990 and those who come more lately is, according to Searls, *enthusiasm*. That is, before the huge influx of cash into the industry, programming was simply "a firmly middle class job that appealed to people who really loved computers." More simply, Searls thinks there wasn't a strong incentive to become a  developer other than you were a computer enthusiast, a hobby that boomed during the personal computing revolution. Now, programming has become a "comfortably upper-middle class profession that attracts anyone who wants to secure their financial future," meaning that people who don't particularly enjoy or have an enthusiastic interest in computers are becoming developers. He doesn't see people programming for the cash to be a problem, but he does predict a looming generational conflict between the 10x enthusiasts and the mere professionals.
